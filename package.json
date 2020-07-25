@@ -2,7 +2,7 @@
   "private": true,
   "name": "{{ project-name }}",
   "version": "1.0.0",
-  "description": "Scala hello world for Cloudflare Workers",
+  "description": "Scala example of using Cloudflare Workers KV",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
