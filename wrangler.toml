@@ -1,9 +1,4 @@
-name = ""
-type = "javascript"
-account_id = ""
-workers_dev = true
-route = ""
-zone_id = ""
-kv-namespaces = [
+name = "placeholder"
+kv_namespaces = [
   { binding = "KV", "id" = "" }
 ]
