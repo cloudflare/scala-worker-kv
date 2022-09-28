@@ -1,3 +1,4 @@
+main = "index.js" # Entrypoint in package.json
 name = "placeholder"
 compatibility_date = "2022-09-15"
 kv_namespaces = [
