@@ -1,9 +1,6 @@
-name = ""
-type = "javascript"
-account_id = ""
-workers_dev = true
-route = ""
-zone_id = ""
-kv-namespaces = [
+main = "index.js" # Entrypoint in package.json
+name = "placeholder"
+compatibility_date = "2022-09-15"
+kv_namespaces = [
   { binding = "KV", "id" = "" }
 ]
